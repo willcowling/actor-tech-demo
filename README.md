@@ -32,27 +32,27 @@ You'll first see a dialog allowing a GPU device to be selected (default is likel
 
 	Press F1 for interactive help.
 
-	TAB			    Toggle frame rate display
+	TAB             Toggle frame rate display
 	
-	ENTER			Reset whole scene
-	CTRL + M		Reset mirror
-	CTRL + D		Reset dummy
+	ENTER           Reset whole scene
+	CTRL + M        Reset mirror
+	CTRL + D        Reset dummy
 
-	Space			Throw object/Hit pool ball
-	Shift + LMB		Fly towards pointer
-	Shift + RMB		Fly away from pointer
-	V			    Toggle pointer follow on/off
+	Space           Throw object/Hit pool ball
+	Shift + LMB     Fly towards pointer
+	Shift + RMB     Fly away from pointer
+	V               Toggle pointer follow on/off
 
-	B			    Throw bomb
-	G			    Toggle gravity on/off
-	F			    Follow rat on/off
-	Arrow keys		Rotate dragged object
-	Hold CTRL		Pick pool balls
-	Escape			Quit demo
-	CTRL + I		Re-trigger intro sequence
+	B               Throw bomb
+	G               Toggle gravity on/off
+	F               Follow rat on/off
+	Arrow keys      Rotate dragged object
+	Hold CTRL       Pick pool balls
+	Escape          Quit demo
+	CTRL + I        Re-trigger intro sequence
 
-	CTRL + S		Save the current state of the scene
-	CTRL + L		Load a saved scene
+	CTRL + S        Save the current state of the scene
+	CTRL + L        Load a saved scene
 	
 
 	Drag with LMB to move objects left/right, up and down.
@@ -60,21 +60,20 @@ You'll first see a dialog allowing a GPU device to be selected (default is likel
 	
 	Whilst dragging an object...
 
-	Arrow keys		Rotate object
-	CTRL + Arrows	  ..     ..
+	Arrow keys      Rotate object
+	CTRL + Arrows     ..     ..
 
-	CTRL + A		Pin the dragged object point in space (see below)
+	CTRL + A        Pin the dragged object point in space (see below)
 
 
  Character Keys...
 
-	Arrow keys		Move character
-	Page Up/Down	Cycle character animations
-	Space			Execute current animation
+	Arrow keys      Move character
+	Page Up/Down    Cycle character animations
+	Space           Execute current animation
 
-	CTRL+1			Trigger dummy sequence (preset camera)
-	ALT+1			Trigger dummy sequence (current camera)
-
+	CTRL+1          Trigger dummy sequence (preset camera)
+	ALT+1           Trigger dummy sequence (current camera)
 
 
  Other controls...
