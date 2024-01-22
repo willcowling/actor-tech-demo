@@ -114,7 +114,7 @@ You'll first see a dialog allowing a GPU device to be selected (default is likel
 	with the mouse.
 
 ## Bugs and Issues
-Bare in mind that this demo was made 25 years ago at the time of writing this.
+Bear in mind that this demo was made 25 years ago at the time of writing this.
 
 The demo's originally played videos via the projector in the room, but video player code was hardwired for a video codec that no longer seems to work. I've tried recoding the videos to other formats but that seems to cause futher issues, so I've just left them alone for the versions here.
 
