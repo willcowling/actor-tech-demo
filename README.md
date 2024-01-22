@@ -11,8 +11,13 @@ The **Original** version was released in early 2000 to showcase MathEngine, show
 
 The **Intel** demo was released in late 2000 to showcase the Intel Pentium 4 processor and showed some more advanced features of MathEngine including ragdolls, cloth and water boyancy. This version also used a custom version of MathEngine that was optimised with SSE2 instructions for improved performance.
 
-For the full story of the development of these demos you can read about them in Mev's autobiography - Life Is A Game. 
+Now in 2024, you may not of heard of MathEngine but it was one of the first commercially available physics engines, released at GDC 2000 alongside Havok. It was available for licensing until around 2003 when the company was purchased by Criterion software (EA) and became part of their Renderware Engine. Both of these disappeared a few years later when Renderware failed to take off.
 
+The KarmaUserGuide.pdf in this repo file gives a good overview of the MathEngine 'Karma' physics engine as it was in 2002. A slightly more advanced version to the one included in the Actor demo with more extensive optimisations that had been applied over the years.
+
+Although MathEngine was a closed source project, one of its developers, Russell Smith, released an open source physics engine called 'ODE' (Open Dynamics Engine) which uses the same underlying principles as MathEngine. In fact you could consider MathEngine as an optimised, commercial version of ODE. https://www.ode.org/.
+
+For the full story of the development of these demos you can read about them in Mev's autobiography - Life Is A Game. 
 <https://mevdinc.com/>
 
 ## Running the Demo
@@ -20,6 +25,7 @@ For the full story of the development of these demos you can read about them in 
 This repo contains pre-build exe's for Windows only. Other platforms are not supported and I no longer have access to the source to rebuild them. Since it was written at a time when processors ran in MHz rather than Ghz and GPUs had MBs of memory rather than GBs, it will likely run on pretty much any PC or laptop these days.
 
 Start either demo by running the **Actor.exe** in the **Bin** folder.
+E.g. run 'ActorDemoIntel\Bin\Actor.exe' to start the Intel demo.
 
 You'll first see a dialog allowing a GPU device to be selected (default is likely to be fine). Click OK to start the demo which should run fullscreen.
 
